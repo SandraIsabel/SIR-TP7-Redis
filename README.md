@@ -5,3 +5,8 @@
   De données simples : chaînes de caractères, tableaux associatifs, listes, ensembles et ensembles ordonnés.
 
 <b>Que peut on faire comme types de requêtes ?</b>
+Get
+Set
+Expire
+Ttl
+Sadd
